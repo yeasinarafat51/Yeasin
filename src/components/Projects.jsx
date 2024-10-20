@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     name: "Market-Place",
     technologies: "MERN Stack",
-    image: '/yeasin.png',
+    image: '/market2.PNG',
     github: "https://github.com/yeasinarafat51/marketplace",
     client: "https://marketplace-ten-phi.vercel.app/"
   },
