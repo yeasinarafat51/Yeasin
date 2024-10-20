@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     name: "Market-Place",
     technologies: "MERN Stack",
-    image: '/public/yeasin.png',
+    image: '/yeasin.png',
     github: "https://github.com/yeasinarafat51/marketplace",
     client: "https://marketplace-ten-phi.vercel.app/"
   },
@@ -13,7 +13,7 @@ const projects = [
     id: 2,
     name: "Leptop-Resale",
     technologies: "MERN Stack",
-    image: '/public/lapto2.PNG',
+    image: '/lapto2.PNG',
     github: "https://github.com/yeasinarafat51/Laptop-resale-marker-ripo",
     client: "https://66aa7cfb3c8aca07d40c5292--leptop-resale.netlify.app/"
   },
@@ -21,7 +21,7 @@ const projects = [
     id: 3,
     name: "Food-Service",
     technologies: "MERN Stack",
-    image: '/public/food.PNG',
+    image: '/food.PNG',
     github: "https://github.com/yeasinarafat51/Food-service-ripo",
      client: "https://food-service-6ae57.web.app/"
 
