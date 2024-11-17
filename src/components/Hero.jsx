@@ -22,7 +22,7 @@ const Hero = () => {
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'><a href="https://www.linkedin.com/in/yeasin-arafat51/">Contact With Me</a></button>
             <button
             className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white
-            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'><a href="https://drive.google.com/file/d/1EajWLIhDUztl-Xc-2PaEFyRivc0TBPjC/view?usp=sharing">Resume</a></button>
+            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'><a href="https://drive.google.com/file/d/1AcqnkgvvOIyj9UBLMAB0z49llwjXXmvu/view?usp=sharing">Resume</a></button>
         </div>
 
     </div>

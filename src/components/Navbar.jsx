@@ -10,10 +10,10 @@ const Navbar = () => {
                 <a href="#about" className='hover:text-gray-400'>About Me</a>
                 <a href="#service" className='hover:text-gray-400'>Services</a>
                 <a href="#project" className='hover:text-gray-400'>Projects</a>
-                <a href="https://www.facebook.com/profile.php?id=100006591708974" className='hover:text-gray-400'>Contact</a>
+                <a href="#contact" className='hover:text-gray-400'>Contact</a>
             </div>
-            <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
-            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connect Me</button>
+            <a href="https://www.facebook.com/profile.php?id=100006591708974"><button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
+            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connect Me</button></a>
         </div>
     </nav>
   )
