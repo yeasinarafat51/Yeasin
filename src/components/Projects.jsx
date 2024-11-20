@@ -30,7 +30,7 @@ const projects = [
     id: 4,
     name: "Resturant",
     technologies: "Frontend",
-    image: '/src/assets/resturant.PNG',
+    image: '/resturant.PNG',
     github: "https://github.com/yeasinarafat51/resturant",
      client: "https://resturant-eight-sandy.vercel.app/"
 
@@ -39,7 +39,7 @@ const projects = [
     id: 5,
     name: "Disastears",
     technologies: "Frontend",
-    image: '/src/assets/cyper.PNG',
+    image: '/cyper.PNG',
     github: "https://github.com/yeasinarafat51/cyper-tailwind",
      client: "https://cyper-tailwind.vercel.app/"
 
@@ -48,7 +48,7 @@ const projects = [
     id: 6,
     name: "File-Submit",
     technologies: "Frontend",
-    image: '/src/assets/task.PNG',
+    image: '/task.PNG',
     github: "https://github.com/yeasinarafat51/task-seo",
      client: "https://task-seo.vercel.app/"
 
