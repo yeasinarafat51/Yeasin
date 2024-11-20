@@ -26,6 +26,33 @@ const projects = [
      client: "https://food-service-6ae57.web.app/"
 
   },
+  {
+    id: 4,
+    name: "Resturant",
+    technologies: "Frontend",
+    image: '/src/assets/resturant.PNG',
+    github: "https://github.com/yeasinarafat51/resturant",
+     client: "https://resturant-eight-sandy.vercel.app/"
+
+  },
+  {
+    id: 5,
+    name: "Disastears",
+    technologies: "Frontend",
+    image: '/src/assets/cyper.PNG',
+    github: "https://github.com/yeasinarafat51/cyper-tailwind",
+     client: "https://cyper-tailwind.vercel.app/"
+
+  },
+  {
+    id: 6,
+    name: "File-Submit",
+    technologies: "Frontend",
+    image: '/src/assets/task.PNG',
+    github: "https://github.com/yeasinarafat51/task-seo",
+     client: "https://task-seo.vercel.app/"
+
+  },
 ];
 
 const Projects = () => {
