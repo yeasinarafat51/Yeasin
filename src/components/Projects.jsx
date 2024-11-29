@@ -53,6 +53,15 @@ const projects = [
      client: "https://task-seo.vercel.app/"
 
   },
+  {
+    id: 7,
+    name: "Wizia",
+    technologies: "Frontend",
+    image: '/wiz.PNG',
+    github: "https://github.com/yeasinarafat51/wizia",
+     client: "https://wizia-three.vercel.app/"
+
+  },
 ];
 
 const Projects = () => {
